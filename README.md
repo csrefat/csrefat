@@ -17,7 +17,7 @@
 <br/>
 
 
-- 📫 How to reach me: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
+- 📫 E-mail: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
