@@ -1,21 +1,14 @@
-# Hi 👋, I'm MD. JANNATUN NAEM REFAT
+# Hi 👋, I'm Md. Jannatun Naem Refat
 
-### A passionate Python developer
+### Software Engineer | Problem Solver | Tech Enthusiast 💻
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-
+- 🔭 I'm currently working on **Full-Stack & MERN Stack Applications**
 - 🌱 I'm currently learning **TypeScript, Next.js & GraphQL**
-
-- 👯 I'm looking to collaborate on **Open Source MERN Stack Projects
-**
-
-- 🤝 I'm looking for help with **System Design & DevOps**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**
-
-- 📫 How to reach me **refatislam630@gmail.com**
-
-- ⚡ Fun fact **I convert coffee into code ☕**
+- 👯 I'm looking to collaborate on **Open Source Software Projects**
+- 🤝 I'm looking for help with **System Design & DevOps Architecture**
+- 💬 Ask me about **JavaScript, React, Node.js, Express & MongoDB**
+- 📫 How to reach me: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
+- ⚡ Fun fact: **I convert coffee into code ☕**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/csrefat/my-portfolio](https://github.com/csrefat/my-portfolio)**
 
