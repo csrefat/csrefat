@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
-- ⚡ Fun fact: **I convert coffee into code ☕**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/csrefat/my-portfolio](https://github.com/csrefat/my-portfolio)**
 
