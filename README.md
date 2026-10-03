@@ -1,4 +1,20 @@
-# Hi 👋, I'm Md. Jannatun Naem Refat
+<div align="center">
+
+  <!-- 1. Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Md.+Jannatun+Naem+Refat;Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+MERN+Developer;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
+
+  <p><b>Software Engineer | Problem Solver | Tech Enthusiast 💻</b></p>
+
+  <!-- Quick Social Badges -->
+  <a href="mailto:refatislam630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/md-jannatun-naem-refat-839655234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/jjjjjjnnnnnzzzz.Ripuuu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 
 - 📫 How to reach me: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
@@ -21,18 +37,30 @@
 
 <div align="center">
 
-  <!-- 1. Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Md.+Jannatun+Naem+Refat;Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+MERN+Developer;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  ### ⚡ Contribution & Activity Overview
+
+  <!-- 1. Live Activity Graph Wave -->
+  <a href="https://github.com/csrefat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=csrefat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </a>
 
-  <p><b>Software Engineer | Problem Solver | Tech Enthusiast 💻</b></p>
+  <br/><br/>
 
-  <!-- Quick Social Badges -->
-  <a href="mailto:refatislam630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/md-jannatun-naem-refat-839655234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <!-- 2. Side-by-Side Stats Table -->
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=csrefat&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csrefat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- 3. Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csrefat&theme=black-ice&hide_border=true" width="85%" />
 
 </div>
-
-<br/>
