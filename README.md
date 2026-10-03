@@ -1,12 +1,6 @@
 # Hi 👋, I'm Md. Jannatun Naem Refat
 
-### Software Engineer | Problem Solver | Tech Enthusiast 💻
 
-- 🔭 I'm currently working on **Full-Stack & MERN Stack Applications**
-- 🌱 I'm currently learning **TypeScript, Next.js & GraphQL**
-- 👯 I'm looking to collaborate on **Open Source Software Projects**
-- 🤝 I'm looking for help with **System Design & DevOps Architecture**
-- 💬 Ask me about **JavaScript, React, Node.js, Express & MongoDB**
 - 📫 How to reach me: **[refatislam630@gmail.com](mailto:refatislam630@gmail.com)**
 - ⚡ Fun fact: **I convert coffee into code ☕**
 
