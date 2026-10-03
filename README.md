@@ -19,18 +19,20 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csrefat&show_icons=true&theme=tokyonight" alt="csrefat's GitHub stats" />
-</p>
+<div align="center">
 
-### 💻 Most Used Languages
+  <!-- 1. Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Md.+Jannatun+Naem+Refat;Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+MERN+Developer;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csrefat&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <p><b>Software Engineer | Problem Solver | Tech Enthusiast 💻</b></p>
 
-### 🔥 GitHub Streak Stats
+  <!-- Quick Social Badges -->
+  <a href="mailto:refatislam630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/md-jannatun-naem-refat-839655234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csrefat&theme=tokyonight" alt="csrefat's streak" />
-</p>
+</div>
+
+<br/>
